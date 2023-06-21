@@ -47,6 +47,18 @@
   gap: 1rem;
 }
 
+@media (max-width: 768px) {
+  .actions {
+   margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .actions {
+    margin-bottom: 10px;
+  }
+}
+
 .actions button {
   font: inherit;
   color: #5a1a01;
